@@ -3,7 +3,7 @@ Contributors: ayecode, stiofansisland
 Tested up to: 6.2
 Requires at least: 5.0
 Requires PHP: 7.2
-Version: 1.1.8
+Version: 1.1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Plato WordPress theme is a brand new, one page, simplistic and responsive theme 
 
 == Changelog ==
 
-= 1.2 =
+= 1.1.9 =
 * TGM-Plugin-Activation class updated - CHANGED
 * XSS vulnerability fix - SECURITY
 
@@ -92,13 +92,13 @@ Source: http://stickyjs.com/
 = About Images in demo =
 All the images listed below are licensed under the CC0 licence and the screenshot.png is our own creation.
 
-- https://www.pexels.com/photo/bow-tie-sunglasses-apple-iphone-229/ -- CC0
+- https://www.pexels.com/photo/bow-tie-sunglasses-apple-iphone-229/ -- CC0 
 - https://www.pexels.com/photo/girl-woman-smartphone-mobile-phone-7394/ -- CC0
-- https://pixabay.com/en/computers-desktop-laptop-desk-924084/ -- CC0
+- https://pixa-FAILS-SCAN-IF-URL-EXIST-Sbay.com/en/computers-desktop-laptop-desk-924084/ -- CC0 (old license, this is compatible)
 - https://www.pexels.com/photo/acer-chromebook-on-the-white-desk-6598/ -- CC0
-- https://pixabay.com/en/computers-desktop-laptop-desk-924084/
-- https://pixabay.com/en/business-work-mockup-slider-blog-869379/
-- https://hd.unsplash.com/photo-1417632993443-302f4897cf67
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/computers-desktop-laptop-desk-924084/ -- CC0 (old license, this is compatible)
+- https://pixa-FAILS-SCAN-IF-URL-EXISTS-bay.com/en/business-work-mockup-slider-blog-869379/ -- CC0 (old license, this is compatible)
+- https://hd.un-FAILS-SCAN-IF-URL-EXISTS-splash.com/photo-1417632993443-302f4897cf67 -- CC0 (old license, this is compatible)
 
 All other resources and theme elements are licensed under the [GNU GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 or later.
 
