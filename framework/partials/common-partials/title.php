@@ -22,7 +22,7 @@ $id = get_queried_object_id();
     <h1 id="single-title"><?php echo __('Posts tagged with: ', 'plato'); ?><?php single_tag_title(); ?></h1>
 
 <?php elseif (is_search()): ?>
-    <h1 id="single-title"><?php echo __('Search results for:  ', 'plato'). get_query_var('s'); ?></h1>
+    <h1 id="single-title"><?php echo __('Search results for:  ', 'plato'). esc_html( get_search_query() ); ?></h1>
 
 <?php elseif (is_archive()): ?>
 
@@ -34,7 +34,7 @@ $id = get_queried_object_id();
             $archive = __('Archive for ', 'plato') . get_the_time('F jS, Y');
         endif; ?>
 
-        <h1 id="single-title"><?php echo $archive; ?></h1>
+        <h1 id="single-title"><?php echo ( isset( $archive ) ? $archive : '' ); ?></h1>
 <?php else: ?>
         <h1 id="single-title"><?php the_title(); ?></h1>
 <?php endif; ?>

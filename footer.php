@@ -25,16 +25,14 @@ if (plato_active_footer() != false): ?>
 		</div>
 	</section>
 <?php endif; ?>
-
+<?php
+$theme_name = 'Plato';
+?>
 <section id="plato-copyright" class="full-section-10">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<p>
-					<?php _e('created by','plato'); ?>
-					<a rel="nofollow" href="<?php echo esc_url(__('http://platotheme.com/','plato')); ?>"><?php printf(__('Plato Theme','plato')); ?> </a>
-					- <?php bloginfo('name'); ?>
-				</p>
+				<p class="copyright-text"><?php echo wp_sprintf( __( 'Copyright &copy; %1$s %2$s %3$s Theme %4$s - %5$s', 'plato' ), date( 'Y' ), '<a href="https://wordpress.org/themes/plato/" target="_blank" rel="nofollow" title="' . esc_attr( $theme_name ) . '">', $theme_name, '</a>', get_bloginfo( 'name' ) ); ?></p>
 			</div>
 		</div>
 	</div>

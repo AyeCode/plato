@@ -15,7 +15,7 @@
 								<?php
 								$attachment_id = get_post_thumbnail_id( get_the_ID() );
 								$image_src     = wp_get_attachment_image_src( $attachment_id, 'plato-boxed-12' );
-								if ( $image_src[0] != '' ):
+								if ( ! empty( $image_src ) && ! empty( $image_src[0] ) ) :
 									echo '<img src="' . esc_url( $image_src[0] ) . '" alt="' . esc_attr(__( 'featured image', 'plato' )) . '" width="' . esc_attr( $image_src[1] ) . '" height="' . esc_attr( $image_src[2] ) . '" />';
 								endif;
 								?>

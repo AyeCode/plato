@@ -13,6 +13,10 @@ Plato WordPress theme is a brand new, one page, simplistic and responsive theme 
 
 == Changelog ==
 
+= 1.2 =
+* TGM-Plugin-Activation class updated - CHANGED
+* XSS vulnerability fix - SECURITY
+
 = 1.1.8 =
 * Minor fixes
 
