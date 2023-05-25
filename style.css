@@ -1,22 +1,25 @@
 /*
 Theme Name: Plato
-Theme URI: http://platotheme.com
-Author: Alex Itsios
-Author URI: http://ketchupthemes.com/alex-itsios
-Description:  Plato WordPress theme is a brand new , one page ,simplistic and responsive theme for businesses. You can build the frontpage completely from the customizer and it has a great amount of features. You can create a really stylish front page utilising the custom header feature. You can add also a custom menu and you can also change the background color of your website.
+Author: AyeCode Ltd
+Author URI: https://ayecode.io
+Theme URI: https://wordpress.org/themes/plato
 Version: 1.1.8
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Description: Plato WordPress theme is a brand new, one page, simplistic and responsive theme for businesses. You can build the frontpage completely from the customizer and it has a great amount of features. You can create a really stylish front page utilising the custom header feature. You can add also a custom menu and you can also change the background color of your website.
 Tags: custom-header, custom-logo, custom-menu, custom-background,featured-images, threaded-comments
 Text Domain: plato
+Requires at least: 5.0
+Requires PHP: 7.2
+Tested up to: 6.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-/*
-* Main Classes and ids
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
 */
-/* {
-    outline: 1px solid red; // Debug ;)
-}
-*/
+
 body {
     word-wrap: break-word;
     -webkit-font-smoothing: antialiased;

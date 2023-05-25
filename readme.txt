@@ -1,14 +1,69 @@
-== Plato Theme  ==
+== Plato Theme ==
+Contributors: ayecode, stiofansisland
+Tested up to: 6.2
+Requires at least: 5.0
+Requires PHP: 7.2
+Version: 1.1.8
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-    Plato WordPress theme is a brand new , simplistic and responsive theme for businesses. You can build the frontpage completely from the customizer and it has a great amount of features.
+Plato WordPress theme is a brand new, one page, simplistic and responsive theme for businesses. You can build the frontpage completely from the customizer and it has a great amount of features. You can create a really stylish front page utilising the custom header feature. You can add also a custom menu and you can also change the background color of your website.
 
-/*****************************/
+== Changelog ==
 
-== COPYRIGHT AND LICENSE ==
+= 1.1.8 =
+* Minor fixes
 
-Resources packed within the theme.
+= 1.1.7 =
+* Minor fixes
+
+= 1.1.6 =
+* Minor fix
+
+= 1.1.5 =
+* Better input/output sanitization process
+
+= 1.1.4 =
+* Sticky header notice fixed.
+* Fixed mobile menu issue
+
+= 1.1.3 =
+* Redesign the way the theme uses the content.
+
+= 1.1.2 =
+* Bug fixes
+
+= 1.1.0 =
+* Full code rewriting.
+* Next / Previous posts link added
+
+= 1.0.1 =
+* Code Refactoring across multiple files.
+* front-page.php added.
+* functions.php refactored
+* fixed undefined variable in comments.php
+
+= 1.0.0 =
+* Initial Release
+
+== Copyright ==
+
+Plato WordPress Theme, Copyright AyeCode Ltd
+Plato is distributed under the terms of the GNU GPL.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+== Resources used to build this theme ==
 - Twitter Bootstrap v3.3.2 Framework is licenced under MIT License (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 - FontAwesome v4.3.0 by @davegandy - http://fontawesome.io - @fontawesome License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
 - Montserrat  Font is licensed under SIL Open Font License 1.1
@@ -30,7 +85,7 @@ License: https://github.com/garand/sticky/blob/master/LICENSE.md
 Source: http://stickyjs.com/
 * Other custom js files are our own creation and is licensed under the same license as this theme.
 
-About Images in demo --
+= About Images in demo =
 All the images listed below are licensed under the CC0 licence and the screenshot.png is our own creation.
 
 - https://www.pexels.com/photo/bow-tie-sunglasses-apple-iphone-229/ -- CC0
@@ -43,66 +98,13 @@ All the images listed below are licensed under the CC0 licence and the screensho
 
 All other resources and theme elements are licensed under the [GNU GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 or later.
 
-Plato WordPress Theme, Copyright 2015 Ketchupthemes.com
-Plato Theme is distributed under the terms of the GNU GPL
-
-/*****************************/
-
-
 = Theme Features Usage =
-All available options can be used from Appearance->Customize
-Theme supports no more than three levels deep navigation.
-
-/*****************************/
+All available options can be used from Appearance->Customize Theme supports no more than three levels deep navigation.
 
 == TRANSLATIONS ==
 
-There is a language folder within the theme directory and it contains
-the "plato.pot" file you can use
-with the WPML, or
-the PoEdit software to translate the theme.
-
-/*****************************/
+There is a language folder within the theme directory and it contains the "plato.pot" file you can use with the WPML, or the PoEdit software to translate the theme.
 
 == EXTRAS ==
 
 Twitter Bootstrap customize ID : http://getbootstrap.com/customize/?id=773f7ea5ed6980eb2414
-
-/*****************************/
-
-== CHANGE LOG ==
-
-= Version 1.0.0 =
-- Initial Release
-
-= Version 1.0.1 =
-- Code Refactoring accross multiple files.
-- front-page.php added.
-- functions.php refactored
-- fixed undefined variable in comments.php
-
-= Version 1.1.0 =
-- Full code rewriting.
-- Next / Previous posts link added
-
-= Version 1.1.2=
-- Bug fixes
-
-= Version 1.1.3 =
-- Redesign the way the theme uses the content.
-
-= Version 1.1.4 =
-- Sticky header notice fixed.
-- Fixed mobile menu issue
-
-= Version 1.1.5 =
-- Better input/output sanitization process
-
-= Version 1.1.6 =
-- Minor fix
-
-= Version 1.1.7 =
-- Minor fixes
-
-= Version 1.1.8 =
-- Minor fixes
