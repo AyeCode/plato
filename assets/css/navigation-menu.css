@@ -1,0 +1,99 @@
+#plato-main-navigation{
+     float:right;
+ }
+#plato-main-navigation ul
+{
+    list-style:none;
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0
+}
+#plato-main-navigation ul li
+{
+    position:relative;
+    margin: 0 15px 0 20px;
+    max-width:160px;
+    display:inline-block;
+}
+#plato-main-navigation ul li:last-child{
+    margin-right:0;
+}
+#plato-main-navigation ul li.current-menu-item
+{
+    /*text-decoration: underline;*/
+}
+#plato-main-navigation ul a
+{
+    padding:10px 12px;
+    border:2px solid transparent;
+    display:block;
+    text-decoration:none;
+    font-family: "Oxygen Regular",sans-serif;
+}
+#plato-main-navigation ul a:hover{
+    border:2px solid #2CC0BE;
+    background:#2CC0BE;
+    color:#ffffff;
+}
+#plato-main-navigation ul ul
+{
+    display:none;
+    position:absolute;
+    top:auto;
+    left:0;
+    background:#454545;
+    border-top:4px solid #cacaca;
+    padding:0;
+    z-index:100;
+}
+#plato-main-navigation ul ul li
+{
+    float:none;
+   width:155px;
+    margin:0;
+}
+#plato-main-navigation ul ul a
+{
+    line-height:120%;
+    padding:10px 15px;
+    font-size:14px;
+
+}
+#plato-main-navigation ul ul ul
+{
+    top:-2px;
+    left:100%;
+    border-top:4px solid #454545;
+}
+#plato-main-navigation ul li:hover > ul
+{
+    display:block
+}
+/*
+* Secondary navigation
+*/
+#plato-top-navigation{
+    list-style-type: none;
+}
+#plato-top-navigation ul {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0
+}
+#plato-top-navigation ul li{
+    display:inline-block;
+    margin:0 15px 0 0;
+}
+#plato-top-navigation ul ul{
+    display:none;
+}
+#plato-top-navigation ul li a{
+    font-size:12px;
+    color:#ffffff;
+}
+#plato-top-navigation ul li a:hover{
+    color: #cacaca;
+}
