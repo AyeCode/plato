@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plato\n"
+"POT-Creation-Date: 2016-02-06 16:05+0200\n"
+"PO-Revision-Date: 2016-02-06 16:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: Platotheme.com <info@platotheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:20 comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:61
+msgid "Email"
+msgstr ""
+
+#: comments.php:66
+msgid "Website"
+msgstr ""
+
+#: comments.php:70
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "LEAVE A REPLY to %s"
+msgstr ""
+
+#: framework/base-init.php:68
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/base-init.php:69
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/base-init.php:70
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/base-init.php:71
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/base-init.php:132
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/base-init.php:133
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:367
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2957
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/base-init.php:134
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/base-init.php:135
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/base-init.php:136
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/base-init.php:137
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/base-init.php:138
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/base-init.php:308
+msgid "Search Results"
+msgstr ""
+
+#: framework/base-init.php:311 framework/partials/common-partials/title.php:29
+#: framework/skins/plato-bistro/partials/common-partials/title.php:44
+#: framework/skins/plato-italian/partials/common-partials/title.php:54
+msgid "Archive for: "
+msgstr ""
+
+#: framework/base-init.php:313 framework/base-init.php:315
+#: framework/partials/common-partials/title.php:31
+#: framework/partials/common-partials/title.php:33
+#: framework/skins/plato-bistro/partials/common-partials/title.php:46
+#: framework/skins/plato-bistro/partials/common-partials/title.php:48
+#: framework/skins/plato-italian/partials/common-partials/title.php:56
+#: framework/skins/plato-italian/partials/common-partials/title.php:58
+msgid "Archive for "
+msgstr ""
+
+#: framework/base-init.php:322
+msgid "Go to the homepage"
+msgstr ""
+
+#: framework/base-init.php:322
+msgid "Home"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:36
+msgid "Homepage Builder"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:37
+msgid "Build the home page like the demo"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:43
+msgid "Header Text & Buttons"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:44
+msgid "After uploading a header image fill this forms to enhance your header."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:51
+msgid "About Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:52
+msgid "Set your about section."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:59
+msgid "Features Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:60
+msgid "Set your features section."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:67
+msgid "Parallax Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:68
+msgid "Enable a nice parallax section with image and content."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:75
+msgid "Team Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:76
+msgid "This is our team section."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:83
+msgid "Blog Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:84
+msgid "This is our blog section. It shows the 3 latests posts."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:91
+msgid "Contac Section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:92
+msgid ""
+"This is our contact section. You can use it among with the Contact form 7 "
+"plugin."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:108
+msgid "The small text above the header title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:125
+msgid "The title of the header."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:142
+msgid "The header button text."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:160
+msgid "The header button url."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:182
+msgid "Add section title."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:201
+msgid "Add section subtitle."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:218
+msgid "Add section main text."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:243
+msgid "Progress bar 1 title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:260
+msgid "Progress bar 1 value. Choose a number between 0 and 100"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:278
+msgid "Progress bar 2 title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:294
+msgid "Progress bar 2 value. Choose a number between 0 and 100"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:313
+msgid "Progress bar 3 title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:330
+msgid "Progress bar 3 value. Choose a number between 0 and 100"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:348
+msgid "Progress bar 4 title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:365
+msgid "Progress bar 4 value. Choose a number between 0 and 100"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:384
+msgid "Progress bar 5 title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:401
+msgid "Progress bar 5 value. Choose a number between 0 and 100"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:422
+msgid "Features section main title"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:440
+msgid "Features section subtitle"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:463
+msgid "Icon 1. Add the FontAwesome Class of the icon eg fa-user."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:481
+msgid "Title 1. Add the title of the first feature."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:500
+msgid "Text 1. Add a small text of the first service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:519
+msgid "URL 1. Add a URL-if any- of the first service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:542
+msgid "Icon 2. Add the FontAwesome Class of the icon eg fa-user."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:560
+msgid "Title 2. Add the title of the second feature."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:579
+msgid "Text 2. Add a small text of the second service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:598
+msgid "URL 2. Add a URL-if any- of the second service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:621
+msgid "Icon 3. Add the FontAwesome Class of the icon eg fa-user."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:639
+msgid "Title 3. Add the title of the third feature."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:658
+msgid "Text 3 Add a small text of the third service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:677
+msgid "URL 3. Add a URL-if any- of the third service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:700
+msgid "Icon 4. Add the FontAwesome Class of the icon eg fa-user."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:718
+msgid "Title 4. Add the title of the fourth feature."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:737
+msgid "Text 4 Add a small text of the fourth service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:756
+msgid "URL 4. Add a URL-if any- of the fourth service."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:779
+msgid "Main Parallax Image. Use it with caution eg 1920x1000"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:799
+msgid "Add the title of the parallax image"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:817
+msgid "Add the text of the parallax image"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:835
+msgid "Add the text of the button in the parallax section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:852
+msgid "Add the URL of the parallax button"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:874
+msgid "The title of this section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:891
+msgid "The subtitle of this section"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:910
+msgid "Staff 1 Image. Use an image 400x650."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:929
+msgid "Staff 1 name."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:946
+msgid "Staff 1 title eg CEO."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:963
+msgid "Staff 1 text."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:985
+msgid "Staff 2 Image. Use an image 400x650."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1004
+msgid "Staff 2 name."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1021
+msgid "Staff 2 title eg CEO."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1038
+msgid "Staff 2 text."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1060
+msgid "Staff 3 Image. Use an image 400x650."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1079
+msgid "Staff 3 name."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1096
+msgid "Staff 3 title eg CEO."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1113
+msgid "Staff 3 text."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1134
+msgid "Blog section title."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1151
+msgid "Blog section subtitle."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1172
+msgid "Contact section title."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1189
+msgid "Contact section subtitle."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1206
+msgid "Contact form shortcode. Paste it directly from the cf7 plugin."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1216
+msgid "General Settings"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1217
+msgid "General Settings for this theme."
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1245
+msgid "Enable transparent header. Front page"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1249
+msgid "No"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1250
+msgid "Yes"
+msgstr ""
+
+#: framework/customizer/customizer-init.php:1262
+msgid "Upload a logo"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2168
+msgid "Active"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/libraries/TGM-Class/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/partials/common-partials/featured-image.php:11
+#: framework/partials/common-partials/featured-image.php:19
+#: framework/partials/main-content/boxed-9-content.php:19
+#: framework/skins/plato-bistro/partials/common-partials/featured-image.php:7
+#: framework/skins/plato-italian/partials/common-partials/featured-image.php:7
+msgid "featured image"
+msgstr ""
+
+#: framework/partials/common-partials/meta.php:12
+#: framework/skins/plato-bistro/partials/common-partials/meta.php:15
+#: framework/skins/plato-italian/partials/common-partials/meta.php:13
+msgid "By "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:18
+#: framework/skins/plato-bistro/partials/common-partials/title.php:33
+#: framework/skins/plato-italian/partials/common-partials/title.php:43
+msgid "Posts in category: "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:21
+#: framework/skins/plato-bistro/partials/common-partials/title.php:36
+#: framework/skins/plato-italian/partials/common-partials/title.php:46
+msgid "Posts tagged with: "
+msgstr ""
+
+#: framework/partials/common-partials/title.php:24
+#: framework/skins/plato-bistro/partials/common-partials/title.php:39
+#: framework/skins/plato-italian/partials/common-partials/title.php:49
+msgid "Search results for:  "
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:8
+#: framework/skins/plato-bistro/partials/footer-partials/copyright.php:7
+#: framework/skins/plato-italian/partials/footer-partials/copyright.php:7
+msgid "created by"
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:9
+#: framework/skins/plato-bistro/partials/footer-partials/copyright.php:8
+#: framework/skins/plato-italian/partials/footer-partials/copyright.php:8
+#: framework/skins/plato-wedding/partials/footer-partials/copyright.php:8
+msgid "http://platotheme.com/"
+msgstr ""
+
+#: framework/partials/footer-partials/copyright.php:9
+msgid "Plato Theme"
+msgstr ""
+
+#: framework/partials/front-page/blog-section.php:52
+msgid "Read More"
+msgstr ""
+
+#: framework/partials/main-content/boxed-9-content.php:68
+msgid "READ MORE"
+msgstr ""
+
+#: framework/partials/main-content/boxed-9-content.php:83
+msgid "There are not any posts availableplato-theme"
+msgstr ""
+
+#: framework/skins/plato-bistro/partials/footer-partials/copyright.php:8
+#: framework/skins/plato-italian/partials/footer-partials/copyright.php:8
+msgid "Plato Italian Theme"
+msgstr ""
+
+#: framework/skins/plato-wedding/partials/footer-partials/copyright.php:7
+msgid "Wedding Skin created by"
+msgstr ""
+
+#: framework/skins/plato-wedding/partials/footer-partials/copyright.php:8
+msgid "Plato Multipurpose Theme"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:60
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:61
+msgid "Bottom Navigation"
+msgstr ""
+
+#: functions.php:246
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:250
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:255
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:255
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:284
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:286
+msgid ""
+"This is the main sidebar.It is in every page - post. However you can "
+"override this setting from within each post."
+msgstr ""
+
+#: functions.php:296
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:298
+msgid "This is the sidebar in the footer, on the left"
+msgstr ""
+
+#: functions.php:306
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:308
+msgid "This is the sidebar in the footer, the second on the left"
+msgstr ""
+
+#: functions.php:316
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:318
+msgid "This is the sidebar in the footer, the second on the right"
+msgstr ""
+
+#: functions.php:326
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:328
+msgid "This is the sidebar in the footer, on the right"
+msgstr ""
+
+#: functions.php:355
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
